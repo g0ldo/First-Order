@@ -1,4 +1,5 @@
-!([Logo.png](https://github.com/g0ldo/FGM_Project/blob/6437ee9fe73920c76885edd28bfa1b976a002cc1/Logo))
+![Untitled-1 2](https://github.com/g0ldo/FGM_Project/assets/93378139/6cbf600a-dec6-4ee3-b081-e7e983c9f97a)
+
 # Progetto Informatica (Consegna 23:59 08/03/2024)
 
 ## Logbook
