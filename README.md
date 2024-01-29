@@ -1,4 +1,4 @@
-!(Logo.png)
+!([Logo.png](https://github.com/g0ldo/FGM_Project/blob/6437ee9fe73920c76885edd28bfa1b976a002cc1/Logo))
 # Progetto Informatica (Consegna 23:59 08/03/2024)
 
 ## Logbook
