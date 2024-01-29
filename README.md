@@ -1,4 +1,4 @@
-![Untitled-1 2](https://github.com/g0ldo/FGM_Project/assets/93378139/6cbf600a-dec6-4ee3-b081-e7e983c9f97a)
+![Logo (Wh)](https://github.com/g0ldo/FGM_Project/assets/93378139/be0ccb37-76a1-41e5-b01c-6786e48ae38c)
 
 # Progetto Informatica (Consegna 23:59 08/03/2024)
 
