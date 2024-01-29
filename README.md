@@ -1,4 +1,4 @@
-### Progetto Informatica (Consegna 23:59 08/03/2024)
+# Progetto Informatica (Consegna 23:59 08/03/2024)
 
 ## Logbook
   ### 29/01/2024 - Alpha 0.0.1
