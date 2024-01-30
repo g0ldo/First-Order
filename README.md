@@ -4,8 +4,11 @@
 
 ## Logbook
   ### 29/01/2024 - Alpha 0.0.1
-    - Costruita la struttura base del programma
-    - Sviluppo in corso del sistema di navigazione con frecce
+    - Costruita la struttura base del programma.
+    - Sviluppo in corso del sistema di navigazione con frecce.
+
+  ### 30/01/2024 - Alpha 0.0.2
+    - Implementata la navigazione tramite i tasti W A S D.
 
 ## Descrizione
   Inserire descrizione qui
