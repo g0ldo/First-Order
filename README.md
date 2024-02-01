@@ -11,7 +11,7 @@
     - Implementata la navigazione mediante i tasti W A S D.
 
   ### 31/01/2024 - Alpha 0.0.3
-    - Aggiunta menù iniziale di gioco
+    - Aggiunto menu iniziale di gioco.
 
 ## Descrizione
   Inserire descrizione qui
