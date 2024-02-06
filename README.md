@@ -13,6 +13,12 @@
   ### 31/01/2024 - [Alpha 0.0.3](https://github.com/g0ldo/First-Order/blob/7fa2c8ab59d2f6402c8a643ad6e92346d004abb5/FO%20Alpha%200.0.3.zip)
     - Aggiunto menu iniziale di gioco.
 
+  ### 06/02/2024 - [Alpha 0.0.4](https://github.com/g0ldo/First-Order/blob/d917cbe504d741546be70a0aff5c562f52126cc9/FO%20Alpha%200.0.4.zip)
+    - Definito lo stile ed i font del menù iniziale di gioco.
+    - Inseriti pulsanti di: uscita, crediti, inizio gioco.
+    - Definiti i primi muri e limiti dell'ambiente di gioco
+
+
 ## Descrizione
   Nothing Left è un videogioco nel quale il giocatore controlla un personaggio, il cui scopo è quello di abbandonare il luogo nel quale si trova. Progettato per essere un videogame di
   genere maze, che presenta inoltre enigmi ed altri ostacoli da risolvere per portare a termine il gioco.
