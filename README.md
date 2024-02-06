@@ -1,4 +1,4 @@
-![Logo (Wh)](https://github.com/g0ldo/First-Order/blob/f6a465aaeb351d5ea6f4160ab2cbce807a6efb64/LOGO.png))
+![Logo (Wh)](https://github.com/g0ldo/First-Order/blob/f6a465aaeb351d5ea6f4160ab2cbce807a6efb64/LOGO.png)
 
 # Progetto Informatica (Consegna 23:59 08/03/2024)
 
