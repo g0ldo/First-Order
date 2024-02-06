@@ -1,6 +1,6 @@
 ![Logo (Wh)](https://github.com/g0ldo/First-Order/blob/f6a465aaeb351d5ea6f4160ab2cbce807a6efb64/LOGO.png)
 
-# Progetto Informatica (Consegna 23:59 08/03/2024)
+# Nothing Left (Consegna 23:59 08/03/2024)
 
 ## Logbook
   ### 29/01/2024 - Alpha 0.0.1
@@ -14,7 +14,8 @@
     - Aggiunto menu iniziale di gioco.
 
 ## Descrizione
-  Inserire descrizione qui
+  Nothing Left è un videogioco nel quale il giocatore controlla un personaggio, il cui scopo è quello di abbandonare il luogo nel quale si trova. Progettato per essere un videogame di
+  genere maze, che presenta inoltre enigmi ed altri ostacoli da risolvere per portare a termine il gioco.
 
 ## Guida
   Inserire guida qui
