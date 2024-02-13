@@ -16,7 +16,7 @@
   ### 06/02/2024 - [Alpha 0.0.4](https://github.com/g0ldo/First-Order/blob/d917cbe504d741546be70a0aff5c562f52126cc9/FO%20Alpha%200.0.4.zip)
     - Definito lo stile ed i font del menù iniziale di gioco.
     - Inseriti pulsanti di: uscita, crediti, inizio gioco.
-    - Definiti i primi muri e limiti dell'ambiente di gioco
+    - Definiti i primi muri e limiti dell'ambiente di gioco.
 
 
 ## Descrizione
