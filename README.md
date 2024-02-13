@@ -18,6 +18,10 @@
     - Inseriti pulsanti di: uscita, crediti, inizio gioco.
     - Definiti i primi muri e limiti dell'ambiente di gioco.
 
+  ### 10/02/2006 
+    - Aggiunti muri aggiuntivi e cambio colore.
+    - Impostato a "NULL" il layout della main room.
+
 
 ## Descrizione
   Nothing Left è un videogioco nel quale il giocatore controlla un personaggio, il cui scopo è quello di abbandonare il luogo nel quale si trova. Progettato per essere un videogame di
