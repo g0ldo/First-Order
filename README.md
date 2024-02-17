@@ -22,6 +22,11 @@
     - Aggiunti muri aggiuntivi e cambio colore.
     - Impostato a "NULL" il layout della main room.
 
+  ### 16/02/2024 - [Alpha 0.0.6](https://github.com/g0ldo/First-Order/blob/1e9c84f14e69b6596dbab95bdeab2025203abeff/FO%20Alpha%200.0.6.zip)
+    - Rimozione dei muri.
+    - Introdotto campo di gioco MKI.
+    - Importate le prime texture del terreno e del personaggio.
+
 
 ## Descrizione
   Nothing Left è un videogioco nel quale il giocatore controlla un personaggio, il cui scopo è quello di abbandonare il luogo nel quale si trova. Progettato per essere un videogame di
