@@ -30,6 +30,10 @@
     - Generazione del terreno 
     - Rimozione temporanea dei muri 
     - Creazione del personaggio
+
+  ### 22/02/2024 - [Alpha 0.0.8](https://github.com/g0ldo/First-Order/blob/73b0d6602c36c46b82053731bfe470d483ceee1a/FO%20Alpha%200.0.8.zip)
+    - Separazione dei metodi dalla classe main in classe NL.Script
+    - 
   
 
 
