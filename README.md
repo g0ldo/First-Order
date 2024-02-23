@@ -26,7 +26,7 @@
     - Rimozione dei muri.
     - Introdotto campo di gioco MKI.
     - Importate le prime texture del terreno e del personaggio.
-  ### 20/02/2024 - Alpha 0.0.7
+  ### 20/02/2024 - [Alpha 0.0.7](https://github.com/g0ldo/First-Order/blob/2a45ea29680b233af425f60cc02695cdd1d7da6a/FO%20Alpha%200.0.7.zip)
     - Generazione del terreno 
     - Rimozione temporanea dei muri 
     - Creazione del personaggio
