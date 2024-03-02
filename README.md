@@ -48,7 +48,7 @@
   genere maze, che presenta inoltre enigmi ed altri ostacoli da risolvere per portare a termine il gioco.
 
 ## Guida
-  Inserire guida qui
+  Inserire guida qui.
 
 ## FAQ
-  Inserire Fanculo Alle Quaglie qui
+  Inserire FAQ.
