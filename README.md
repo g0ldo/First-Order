@@ -50,5 +50,15 @@
 ## Guida
   Inserire guida qui.
 
-## FAQ
-  Inserire FAQ.
+## Crediti
+  ### Lorenzo Ferrari 
+      - Front End Developer
+      - GUI Developer
+  ### Lorenzo Goldoni
+      - UX Designer
+      - Texture Designer 
+      - Co-Writer 
+  ### Luca Mazzi
+      - Front End Developer
+      - Texture Designer 
+      - Storywriter
