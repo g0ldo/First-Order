@@ -24,7 +24,7 @@
 
   ### 16/02/2024 - [Alpha 0.0.6](https://github.com/g0ldo/First-Order/blob/1e9c84f14e69b6596dbab95bdeab2025203abeff/FO%20Alpha%200.0.6.zip)
     - Rimozione dei muri
-    - Introdotto campo di gioco MKI
+    - Introdotto GameField® MKI
     - Importate le prime texture del terreno e del personaggio
     
   ### 20/02/2024 - [Alpha 0.0.7](https://github.com/g0ldo/First-Order/blob/2a45ea29680b233af425f60cc02695cdd1d7da6a/FO%20Alpha%200.0.7.zip)
@@ -40,6 +40,11 @@
     - Aggiunte le immagini del personaggio
     - Implementate le animazioni del personaggio
     - Inserito livello extra
+
+  ### 03/03/2024 - Beta 1.0
+    - Introdotta HealthBar® MKI
+    - Introdotto GameField® MKII
+    - Implementati potenziali oggetti ad interazione
   
 
 
