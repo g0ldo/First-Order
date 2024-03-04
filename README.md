@@ -63,6 +63,7 @@
       - UX Designer
       - Texture Designer 
       - Co-Writer 
+      - GitHub Management
   ### Luca Mazzi
       - Front End Developer
       - Texture Designer 
