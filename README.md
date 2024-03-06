@@ -1,6 +1,6 @@
 ![Logo (Wh)](https://github.com/g0ldo/First-Order/blob/63889abfb27aa5248d58bfadb6e6a8ec6dce8744/NL.png)
 
-# Nothing Left (Consegna 23:59 08/03/2024)
+# (Consegna 23:59 08/03/2024)
 
 ## Logbook
   ### 29/01/2024 - Alpha 0.0.1
@@ -42,7 +42,7 @@
     - Inserito livello extra
 
   ### 03/03/2024 - Beta 1.0
-    - Introdotta HealthBar® MKI
+    - Introdotto HealthBar® MKI
     - Introdotto GameField® MKII
     - Implementati potenziali oggetti ad interazione
   
@@ -62,7 +62,7 @@
   ### Lorenzo Goldoni
       - UX Designer
       - Texture Designer 
-      - Co-Writer 
+      - Graphics Designer 
       - GitHub Management
   ### Luca Mazzi
       - Front End Developer
