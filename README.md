@@ -41,7 +41,7 @@
     - Implementate le animazioni del personaggio
     - Inserito livello extra
 
-  ### 03/03/2024 - Beta 1.0
+  ### 03/03/2024 - [Beta 1.0](https://github.com/g0ldo/First-Order/blob/2430d3904ea97c38be7c329ce9d0518fa7f3f230/FO%20Beta%201.0.zip)
     - Introdotto HealthBar® MKI
     - Introdotto GameField® MKII
     - Implementati potenziali oggetti ad interazione
