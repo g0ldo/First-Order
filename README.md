@@ -47,10 +47,11 @@
     - Implementati potenziali oggetti ad interazione
 
   ### 06/03/2024 - Beta 2.0
-    - Creazione menù di pausa
+    - Aggiunto menù di pausa
     - Introdotto GameField® MKIII con mappa ingrandita
     - Aggiunti NPC e veicoli
     - Posizionati placeholder per NPC ed oggetti che verranno animati
+    - Aggiunta schermata di morte
   
 
 
