@@ -46,7 +46,7 @@
     - Introdotto GameField® MKII
     - Implementati potenziali oggetti ad interazione
 
-  ### 06/03/2024 - [Beta 2.0]()
+  ### 06/03/2024 - [Beta 2.0](https://github.com/g0ldo/First-Order/blob/a6686be57b581ec5790c9672a8548a58e19bbd8a/FO%20Beta%202.0.zip)
     - Aggiunto menù di pausa
     - Introdotto GameField® MKIII con mappa ingrandita
     - Aggiunti NPC e veicoli
