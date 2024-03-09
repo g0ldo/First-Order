@@ -46,12 +46,14 @@
     - Introdotto GameField® MKII
     - Implementati potenziali oggetti ad interazione
 
-  ### 06/03/2024 - Beta 2.0
+  ### 06/03/2024 - [Beta 2.0]()
     - Aggiunto menù di pausa
     - Introdotto GameField® MKIII con mappa ingrandita
     - Aggiunti NPC e veicoli
     - Posizionati placeholder per NPC ed oggetti che verranno animati
     - Aggiunta schermata di morte
+    - Introdotto HealthBar® MKII con espressioni facciali variabili
+    - Correzione bug
   
 
 
