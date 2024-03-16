@@ -69,11 +69,9 @@
       - Front End Developer
       - GUI Developer
   ### Lorenzo Goldoni
-      - UX Designer
       - Texture Designer 
       - Graphics Designer 
       - GitHub Management
-      - Audio Engineer
   ### Luca Mazzi
       - Front End Developer
       - Texture Designer 
