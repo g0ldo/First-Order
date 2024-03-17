@@ -54,6 +54,16 @@
     - Aggiunta schermata di morte
     - Introdotto HealthBar® MKII con espressioni facciali variabili
     - Correzione bug
+
+  ### 15/03/2024 - [Release 1.0](https://github.com/g0ldo/First-Order/blob/d531cd0d1abdeeec6dab60323a3fef3f5c693895/FO%20Release%201.0.zip)
+    - Aggiunto NPC "Ketaman" ed interazioni con esso 
+    - Aggiunti zombie con azione dannosa al player
+    - Aggiunte texture zombie
+    - Aggiunte leve per aprire cancelli/passaggi
+    - Aggiunti oggetti: benzina, batteria
+    - Implementato tutorial pop-up all'inizio della partita
+    - Aggiunta schermata finale
+    - Correzione bug
   
 
 
