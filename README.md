@@ -70,7 +70,7 @@
   genere maze, che presenta inoltre enigmi ed altri ostacoli da risolvere per portare a termine il gioco.
 
 ## Guida
-  Inserire guida qui.
+    [https://github.com/g0ldo/First-Order/blob/7a68086c20f3f8beb6f5a96aca65b88828925c74/GUIDA.pdf
 
 ## Crediti
   ### Lorenzo Ferrari 
