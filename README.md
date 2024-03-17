@@ -69,8 +69,8 @@
   Nothing Left è un videogioco nel quale il giocatore controlla un personaggio, il cui scopo è quello di abbandonare il luogo nel quale si trova. Progettato per essere un videogame di
   genere maze, che presenta inoltre enigmi ed altri ostacoli da risolvere per portare a termine il gioco.
 
-## Guida
-  (https://github.com/g0ldo/First-Order/blob/7a68086c20f3f8beb6f5a96aca65b88828925c74/GUIDA.pdf)
+## [Visualizza guida di gioco](https://github.com/g0ldo/First-Order/blob/7a68086c20f3f8beb6f5a96aca65b88828925c74/GUIDA.pdf)
+  
 
 ## Crediti
   ### Lorenzo Ferrari 
